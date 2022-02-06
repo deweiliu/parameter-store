@@ -1,0 +1,9 @@
+{
+  "mysql": {
+    "user": {
+      "master": {
+        "username": "root"
+      }
+    }
+  }
+}

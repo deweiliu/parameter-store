@@ -1,0 +1,8 @@
+{
+    "config":{
+        "wgSitename":"Developer Wiki",
+        "wgMetaNamespace":"Developer_Wiki",
+        "wgServer":"https://dev.dliu.com",
+        "wgDBprefix":"mediawiki"
+    }
+}
